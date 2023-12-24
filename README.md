@@ -1,1 +1,4 @@
 # Analyze-Death-Age-Difference-of-Right-Handlers-with-Left-Handlers
+In this project, you will explore using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. This notebook uses pandas to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
+
+This project lets you apply the skills from pandas Foundations, Statistical Thinking in Python, Introduction to Data Visualization with Python, , including reading data, creating new columns, creating matplotlib visualizations, using numpy arrays, constructing probabilities from frequency data, and Bayes' theorem. We recommend that you take those courses before starting this project
